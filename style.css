@@ -1,0 +1,38 @@
+body
+{
+	color: white;
+	background-color: #ffc475;
+	font-family: 'Exo', sans-serif;
+}
+#slider
+{
+	text-align: center;
+}
+#container
+{
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#menu
+{
+	font-size: 14px;
+	background-color: #f58c00;
+	margin-top: 20px;
+	font-family: 'Marck Script', cursive;
+	color: #ffffff;
+	padding: 10px;
+	text-align: center;
+
+	
+}
+#description
+{
+	background-color: #303030;
+	margin-top: 14px;
+	color: #ffffff;
+	padding: 10px;
+	text-align: center;
+	font-size: 14px;
+	
+}
